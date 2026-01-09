@@ -8,7 +8,7 @@ https://github.com/hai/SLDNS](https://github.com/Benetson/halotelslowndns.git)
 * live in matter
 * Ini Script bisa di Mod/Modifikasi/edit dengan bebas
 
-# INFO ronaldo SlowDNS
+# INFO Ronaldo SlowDNS
 • SSH Over DNS (SlowDNS)
 * untuk kecepatan nya di batasi
 * speed download 3 Mbps (Max Speed)
