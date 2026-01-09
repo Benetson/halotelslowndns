@@ -2,7 +2,7 @@
 SSH OVER DNS create by ronaldobenetson
 * Link Script Repo SlowDNS ronaldobenetson
 ```html
-https://github.com/hai/SLDNS](https://github.com/Benetson/halotelslowndns.git)
+https://github.com/hai/SLDNS](https://github.com/Benetson/halotelslowndns.git
 ```
 # INFO
 * live in matter
